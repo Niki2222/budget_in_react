@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+#details, button {
+    background-color: blueviolet;
+    color: white;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.addIncome {
+    background-color: green;
+}
+
+.addExpense {
+    background-color: red;
+}
